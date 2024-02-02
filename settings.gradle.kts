@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Starter"
 include(":app")
+include(":feature:dashboard")
